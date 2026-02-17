@@ -26,7 +26,7 @@ How to Run:
   
 3. Run ATMStructure.java
 
-4.Enter credentials: ATM
+  4.Enter credentials: ATM
 Number: 1234 PIN: 1030 
 
 5. Choose desired option from menu.
