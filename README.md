@@ -1,4 +1,3 @@
-ATM PROJECT 
 Project Title: ATM Banking System (Java Console Application)
 
 Description: This project is a simple ATM simulation program written in
